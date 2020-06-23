@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53582" started-at="2020-06-01T06:17:21Z" finished-at="2020-06-01T06:18:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53582" started-at="2020-06-01T06:17:21Z" finished-at="2020-06-01T06:18:15Z">
+      <class name="testdefination.NewtoursRegisterUser">
+        <test-method status="PASS" signature="setupTest()[pri:0, instance:testdefination.NewtoursRegisterUser@39ba5a14]" name="setupTest" is-config="true" duration-ms="23505" started-at="2020-06-01T11:47:21Z" finished-at="2020-06-01T11:47:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method status="PASS" signature="testExecution()[pri:0, instance:testdefination.NewtoursRegisterUser@39ba5a14]" name="testExecution" duration-ms="29013" started-at="2020-06-01T11:47:45Z" finished-at="2020-06-01T11:48:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExecution -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testdefination.NewtoursRegisterUser@39ba5a14]" name="tearDown" is-config="true" duration-ms="1048" started-at="2020-06-01T11:48:14Z" finished-at="2020-06-01T11:48:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testdefination.NewtoursRegisterUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

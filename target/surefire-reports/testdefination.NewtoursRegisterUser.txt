@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: testdefination.NewtoursRegisterUser
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 55.229 s - in testdefination.NewtoursRegisterUser

@@ -1,0 +1,4 @@
+testdefination\NewtoursRegisterUser.class
+pageobjectmodel\NewTourRegisterPage.class
+helperclass\ExcelReadNewUserRegister.class
+action\ActionClass.class
